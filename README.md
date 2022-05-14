@@ -22,5 +22,5 @@ Short answer: This mod follows the general interpretation of Hypixel's rules, do
 
 ### Hotkeys:
 (Configurable in Controls Menu)
- - P - Opens NBT Gui
+ - P - Opens PDC Gui
  - O - Shows you ITEMDATA
